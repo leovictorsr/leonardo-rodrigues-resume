@@ -8,21 +8,19 @@ in Overwatch sometimes.
 ----
 #### Skillset
 Languages and tools: Python, Java, JavaScript, Node, SASS/CSS, HTML, SQL, C, Haskell, Lisp
-Git workflow
-SCRUM/Agile experience
-Remote work experience
+Git workflow, SCRUM/Agile, Remote work
 
 ----
 #### Education
-State University of Campinas - Undergraduate for Bachelor's of Science in Computer Science, current.  
-Graduation date: Dec 2020.  
-Relevant courses: algorithm analysis, algorithms and data structures, discrete logic, OOP, databases, programming paradigms
+**State University of Campinas** - Undergraduate for Bachelor's of Science in Computer Science, current.  
+**Graduation date:** Dec 2020.  
+**Relevant courses:** algorithm analysis, algorithms and data structures, discrete logic, OOP, databases, programming paradigms
 
 ----
 #### Experience
 ##### Google Summer of Code student with PSF/Scrapy/Spidermon > Apr 2019 - Sep 2019
 *Python, TDD, Open Source contribution, Git workflow, Remote work*
-Google Summer of Code is a project organized by Google that matches students around
+- Google Summer of Code is a project organized by Google that matches students around
 the world with open source organizations to develop 3-month period projects.
 My project was under the umbrella organization Python Software Foundation, Scrapy
 organization, Spidermon project; it was the development of a CLI for Spidermon enabling
