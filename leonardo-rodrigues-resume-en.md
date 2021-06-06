@@ -18,6 +18,19 @@ Git workflow, SCRUM/Agile, Remote work
 
 ----
 #### Experience
+  
+##### Venturus Institute of Research and Development > Backend developer > Feb 2021 - current
+*NodeJS, TypeScript, PostgresSQL, AWS
+- Development of the backend for internal project inside Venturus.
+- CI, Agile releases.
+- Heavy team workload.
+
+##### Venturus Institute of Research and Development > Development Intern > Feb 2020 - Jan 2021
+*Python, NodeJS, IoT, Flutter
+- Worked with proof-of-concept solution for Venturus' clients.
+- Development of native apps for internal use.
+- Had to learn and evaluate new technologies to be used with new projects.
+
 ##### Google Summer of Code student with PSF/Scrapy/Spidermon > Apr 2019 - Sep 2019
 *Python, TDD, Open Source contribution, Git workflow, Remote work*
 - Google Summer of Code is a project organized by Google that matches students around
@@ -27,7 +40,7 @@ organization, Spidermon project; it was the development of a CLI for Spidermon e
 and setup of its core features. More details can be seen in:
 https://summerofcode.withgoogle.com/projects/#5376707886841856
 
-##### Stoom E-Commerce Solutions > Full-stack intern/developer > Apr 2017 - Feb 2019
+##### Stoom E-Commerce Solutions > Full-stack developer > Apr 2017 - Feb 2019
 *Java, AWS, Hibernate, Spring, PostgreSQL, JavaScript, CSS, HTML*
 - E-commerce solutions for a variety of clients.
 - Object-oriented Java, developed front-end, back-end and integrations with API for payment and storage handling, together with user and credential creation and permissions for administrators.
