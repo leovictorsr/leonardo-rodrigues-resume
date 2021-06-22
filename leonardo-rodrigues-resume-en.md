@@ -19,13 +19,13 @@ Git workflow, SCRUM/Agile, Remote work
 #### Experience
   
 ##### Venturus Institute of Research and Development > Backend developer > Feb 2021 - current
-*NodeJS, TypeScript, PostgresSQL, AWS
+*NodeJS, TypeScript, PostgresSQL, AWS*
 - Development of the backend for internal project inside Venturus.
 - CI, Agile releases.
 - Heavy team workload.
 
 ##### Venturus Institute of Research and Development > Development Intern > Feb 2020 - Jan 2021
-*Python, NodeJS, IoT, Flutter
+*Python, NodeJS, IoT, Flutter*
 - Worked with proof-of-concept solution for Venturus' clients.
 - Development of native apps for internal use.
 - Had to learn and evaluate new technologies to be used with new projects.
