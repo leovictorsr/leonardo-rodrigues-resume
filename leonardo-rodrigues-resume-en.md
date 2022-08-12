@@ -1,6 +1,7 @@
 <span style="font-family:Liberation Mono;">
+  
 ### Leonardo Rodrigues  
-#### Software developer
+#### Software developer  
 ##### Brazil / +55 (19) 98759.5924 / leovictorsr@gmail.com  
 Student that wants to spread the word of Python, have fun with Haskell on free time, and play games with other nerds around the world.
 
