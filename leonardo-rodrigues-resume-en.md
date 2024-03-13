@@ -1,16 +1,17 @@
 <span style="font-family:Liberation Mono;">
-
-
+  
 #### Leonardo Rodrigues
 ##### Software developer
 Brazil / +55 (19) 98759.5924 / leovictorsr@gmail.com  
 Student that wants to spread the word of Python, have fun with Haskell on free time, and play games with other nerds around the world.
-
+  
 #### Skillset
+  
 Languages and tools: Python, Java, JavaScript, TypeScript, NodeJS, SASS/CSS, HTML, SQL, C, Haskell, Lisp
 Git workflow, SCRUM/Agile, Remote work
 
 #### Education
+  
 **State University of Campinas** - Undergraduate for Bachelor's of Science in Computer Science, current.  
 **Graduation date:** Jun 2022.  
 **Relevant courses:** algorithm analysis, algorithms and data structures, discrete logic, OOP, databases, programming paradigms
