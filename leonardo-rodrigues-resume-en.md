@@ -1,8 +1,14 @@
-<span style="font-family:Liberation Mono;">
+---
+stylesheet: https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.min.css
+body_class: markdown-body
+css: |-
+  .page-break { page-break-after: always; }
+  .markdown-body { font-size: 11px; }
+  .markdown-body pre > code { white-space: pre-wrap; }
+---
   
 #### Leonardo Rodrigues
-##### Software developer
-Brazil / +55 (19) 98759.5924 / leovictorsr@gmail.com  
+##### Software developer 
 Student that wants to spread the word of Python, have fun with Haskell on free time, and play games with other nerds around the world.
   
 #### Skillset
@@ -17,6 +23,12 @@ Git workflow, SCRUM/Agile, Remote work
 **Relevant courses:** algorithm analysis, algorithms and data structures, discrete logic, OOP, databases, programming paradigms
 
 #### Experience
+
+##### Freelance experience > Feb 2020 - current
+*Web Scraping/Crawling, Image OCR, project setup, all with Python, NodeJS and TypeScript*
+- Some freelancing projects on Upwork.
+- Recipe websites scraping project, with specific and generic parser for any website that can be found. Used NodeJS
+- Google Maps scraper that generated leads based on type of business in an area (city, neighborhood), with contact info and brief description of business.
   
 ##### Venturus Institute of Research and Development > Backend developer > Feb 2021 - Feb 2022
 *NodeJS, TypeScript, PostgresSQL, AWS*
